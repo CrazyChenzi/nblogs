@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-xlx96v.png
-thumbnail: /gallery/covers/wallhaven-xlx96v.png
+cover: https://z3.ax1x.com/2021/08/06/fnnm9S.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnnm9S.md.jpg
 ---
 
 看到浏览器热更新，我们很容易就想到的是`webpack` 和 `webpack-dev-server`。

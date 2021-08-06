@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-2erp9g.jpg
-thumbnail: /gallery/covers/wallhaven-2erp9g.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMJ4P.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMJ4P.md.jpg
 ---
 
 在多人协作的项目中，如果`Git`提交说明过于混乱，是不利于代码**review**的。如果`Git`提交说明足够精准、详细，不仅有利于代码的**review**也有利于后期排查问题，甚至我们可以根据`commit`信息生成响应日志。

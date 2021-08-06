@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-nm1l1m.jpg
-thumbnail: /gallery/covers/wallhaven-nm1l1m.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMsNq.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMsNq.md.jpg
 ---
 
 `JSON.stringify()` 方法将一个 **JavaScript** 对象或值转换为 **JSON** 字符串，如果指定了一个 `replacer` 函数，则可以选择性地替换值，或者指定的 `replacer` 是数组，则可选择性地仅包含数组指定的属性。

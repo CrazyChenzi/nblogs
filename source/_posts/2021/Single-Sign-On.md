@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/guimiezhiren3.jpg
-thumbnail: /gallery/covers/guimiezhiren3.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnm6yj.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnm6yj.md.jpg
 ---
 
 单点登录：用户只需要登录一次，就可以访问多个系统，避免频繁授权

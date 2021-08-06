@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-1jmzjg.jpg
-thumbnail: /gallery/covers/wallhaven-1jmzjg.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMt9f.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMt9f.md.jpg
 ---
 
 整理了自己所用的vscode插件

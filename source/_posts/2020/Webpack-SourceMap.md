@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-963wjw.jpg
-thumbnail: /gallery/covers/wallhaven-963wjw.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMN38.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMN38.md.jpg
 ---
 
 在日常开发过程中，我们编写的源代码通过多重处理（编译，封装，压缩...），最后形成的产物代码，在浏览器中调试时，我们会发现代码变得面目全非，根本没办法调试。

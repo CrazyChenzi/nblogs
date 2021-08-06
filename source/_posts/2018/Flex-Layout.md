@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-ymzx1k.jpg
-thumbnail: /gallery/covers/wallhaven-ymzx1k.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMg3T.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMg3T.md.jpg
 ---
 
 网页布局（layout）是 CSS 的一个重点应用。

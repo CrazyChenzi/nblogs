@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-83l1oy.jpg
-thumbnail: /gallery/covers/wallhaven-83l1oy.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMajg.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMajg.md.jpg
 ---
 
 记录自己学习`Electron`所整理出来的一些学习笔记。仅为个人笔记，所以写的不好，不够清晰，只会留下当时的部分思路，作为后来有问题时的速查笔记。大部分摘自官方文档，文档太长，只挑了当时的重点记录。

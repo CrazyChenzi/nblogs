@@ -11,8 +11,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-xlq1rv.jpg
-thumbnail: /gallery/covers/wallhaven-xlq1rv.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMy40.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMy40.md.jpg
 ---
 
 `AbortController`接口表示一个控制器对象，允许你根据需要中止一个或多个 Web请求。你可以使用 [AbortController.AbortController()](https://developer.mozilla.org/zh-CN/docs/Web/API/AbortController/AbortController) 构造函数创建一个新的 `AbortController` 。使用[AbortSignal](https://developer.mozilla.org/zh-CN/docs/Web/API/AbortSignal) 对象可以完成与与DOM请求的通信。

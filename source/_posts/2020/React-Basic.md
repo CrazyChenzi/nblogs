@@ -11,8 +11,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-5w1eq3.jpg
-thumbnail: /gallery/covers/wallhaven-5w1eq3.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMUgS.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMUgS.md.jpg
 ---
 
 基于[create-react-app](https://zh-hans.reactjs.org/docs/create-a-new-react-app.html#create-react-app)进行React学习，React个人感觉与Vue最大的区别在于高复用性，每一个组件都只做一件事，组件的业务逻辑可以放在父级去做(状态提升)。这与Vue2.0相差甚大，不过随着Vue3.0的到来，Vue也完全可以采取这种方式。弊端是React采用jsx、tsx进行DOM书写，需要额外学习一下语法糖，不过都是小问题🙁

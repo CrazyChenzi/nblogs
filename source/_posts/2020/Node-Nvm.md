@@ -11,8 +11,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/nodejs.jpg
-thumbnail: /gallery/covers/nodejs.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnM8AI.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnM8AI.md.jpg
 ---
 
 `nodejs`是前端经常使用到的，`nodejs`拥有很多版本，我们一般使用官方提供的稳定版本就好了，当然，如果你想体验一些**新功能** **新特性** 可以使用最新版本的`nodejs`。

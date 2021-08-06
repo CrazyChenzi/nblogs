@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-4gxoq0.jpg
-thumbnail: /gallery/covers/wallhaven-4gxoq0.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnM1HA.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnM1HA.md.jpg
 ---
 
 `Chocolatey` Windows设计的包管理器，有了它，你也可以

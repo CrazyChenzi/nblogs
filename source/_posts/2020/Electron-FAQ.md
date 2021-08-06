@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-md8o28.jpg
-thumbnail: /gallery/covers/wallhaven-md8o28.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMBHs.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMBHs.md.jpg
 ---
 
 Electron6.0.0版本部分window7设备上黑屏问题解决方案，官方问题[issues](https://github.com/electron/electron/issues/19569)

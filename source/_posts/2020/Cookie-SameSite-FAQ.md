@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-md8o28.jpg
-thumbnail: /gallery/covers/wallhaven-md8o28.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMBHs.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMBHs.md.jpg
 ---
 
 error message：Because a cookie's SameSite attribute was not set or is invalid, it defaults to SameSite=Lax, which prevents the cookie from being set in a cross-site context. This behavior protects user data from accidentally leaking to third parties and cross-site request forgery.

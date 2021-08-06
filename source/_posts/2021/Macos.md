@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-7232p9.jpg
-thumbnail: /gallery/covers/wallhaven-7232p9.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnM0Bj.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnM0Bj.md.jpg
 ---
 
 因为我之前并没有使用过 Mac 系统，也从未使用过 Linux 系统(上学的时候玩过)，然后自己有买了最新款的 Macos M1 芯片，故此记录使用过程中的各种问题...

@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-j5mdgw.jpg
-thumbnail: /gallery/covers/wallhaven-j5mdgw.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnM2gU.png
+thumbnail: https://z3.ax1x.com/2021/08/06/fnM2gU.md.png
 ---
 
 **Window Terminal**终端程序是一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，*PowerShell*和*WSL*等*Shell*用户。
@@ -63,7 +63,7 @@ Set-Theme ${主题名字}
 
 打开设置
 
-![window terminal](/gallery/covers/window_terminal.png)
+![window terminal](https://z3.ax1x.com/2021/08/06/fnMcCV.png)
 添加defaults和schemes
 {% codeblock "点击展开代码" lang:json >folded %}
 "defaults": {

@@ -11,8 +11,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/wallhaven-2em38y.jpg
-thumbnail: /gallery/covers/wallhaven-2em38y.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnMGNt.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnMGNt.md.jpg
 ---
 
 **Math** 是一个内置对象，它拥有一些数学常数属性和数学函数方法。**Math** 不是一个函数对象。**Math** 用于 **Number** 类型。它不支持 **BigInt**。

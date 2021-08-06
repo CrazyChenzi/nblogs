@@ -10,8 +10,8 @@ providers:
     cdn: loli
     fontcdn: loli
     iconcdn: loli
-cover: /gallery/covers/23.jpg
-thumbnail: /gallery/covers/23.jpg
+cover: https://z3.ax1x.com/2021/08/06/fnnm9S.jpg
+thumbnail: https://z3.ax1x.com/2021/08/06/fnnm9S.md.jpg
 ---
 
 使用 mocha.js chai.js 完成对工具库的单元测试

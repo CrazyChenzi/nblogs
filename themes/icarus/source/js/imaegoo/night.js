@@ -3,24 +3,24 @@
    * Icarus 夜间模式 by iMaeGoo
    * https://www.imaegoo.com/
    */ 
-  var isNight = localStorage.getItem('night');
+  var isNight = localStorage.getItem('night') || window.matchMedia('(prefers-color-scheme: dark)').matches;
   var nightNav;
 
   function applyNight(value) {
-      if (value.toString() === 'true') {
-        document.body.classList.remove('white');
-          document.body.classList.add('night');
-          // if (document.querySelector('.snow-container')) {
-          //     document.querySelector('.snow-container').setAttribute("style", "z-index: 0")
-          // }
-      } else {
-          document.body.classList.remove('night');
-          document.body.classList.add('white');
-          //  if (document.querySelector('.snow-container')) {
-          //     document.querySelector('.snow-container').setAttribute("style", "z-index: 10001")
-          //  }
-     }
-     searchDisqusThread(value.toString())
+    if (value.toString() === 'true') {
+      document.body.classList.remove('white');
+        document.body.classList.add('night');
+        // if (document.querySelector('.snow-container')) {
+        //     document.querySelector('.snow-container').setAttribute("style", "z-index: 0")
+        // }
+    } else {
+        document.body.classList.remove('night');
+        document.body.classList.add('white');
+        //  if (document.querySelector('.snow-container')) {
+        //     document.querySelector('.snow-container').setAttribute("style", "z-index: 10001")
+        //  }
+    }
+    searchDisqusThread(value.toString())
   }
 
   function searchDisqusThread(value) {
