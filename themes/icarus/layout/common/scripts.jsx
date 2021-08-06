@@ -38,6 +38,8 @@ module.exports = class extends Component {
             <Plugins site={site} config={config} page={page} helper={helper} head={false} />
             <script src={url_for('/js/main.js')} defer></script>
             <script src={url_for('/js/imaegoo/universe.js')}></script>
+            {/* 这是 live2d-widget 的 JS 脚本 */}
+            <script src={url_for('/live2d-widget/autoload.js')}></script>
         </Fragment>;
     }
 };

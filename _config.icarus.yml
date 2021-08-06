@@ -313,5 +313,5 @@ providers:
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
     fontcdn: google
-    # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    # Name or URL of the fontawesome icon font CDN provider default: fontawesome
+    iconcdn: https://cdn.bootcdn.net/ajax/libs/font-awesome/5.12.0/css/all.css
