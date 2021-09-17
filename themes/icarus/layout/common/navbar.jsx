@@ -28,7 +28,7 @@ class Navbar extends Component {
             showSearch,
             searchTitle
         } = this.props;
-
+        
         let navbarLogo = '';
         if (logo) {
             if (logo.text) {
@@ -61,6 +61,9 @@ class Navbar extends Component {
                         <a class="navbar-item night" id="night-nav" title="Night Mode" href="javascript:;">
                             <i class="fas fa-moon" id="night-icon"></i>
                         </a>
+                        <a class="navbar-item night" id="switch-font" title="简&繁" href="javascript:;">
+                            <i class="fas fa-text-width"></i>
+                        </a> 
                         {Object.keys(links).length ? <Fragment>
                             {Object.keys(links).map(name => {
                                 const link = links[name];

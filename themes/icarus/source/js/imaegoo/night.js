@@ -1,3 +1,12 @@
+/*
+ * @Author: blacklisten
+ * @Date: 2021-01-06 17:52:19
+ * @LastEditTime: 2021-09-17 14:11:41
+ * @LastEditors: blacklisten
+ * @Description: 
+ * @FilePath: /nblogs/themes/icarus/source/js/imaegoo/night.js
+ * @symbol_custom_string_obkoroi: 1 和 99 之间的差别再大，也不如 0 和 1 之间的差别大
+ */
 (function() {
   /**
    * Icarus 夜间模式 by iMaeGoo
@@ -40,10 +49,12 @@
 
   function findNightNav() {
       nightNav = document.getElementById('night-nav');
-      if (!nightNav) {
+      var switchFontEle = document.getElementById('switch-font')
+      if (!nightNav || !switchFontEle) {
           setTimeout(findNightNav, 100);
       } else {
           nightNav.addEventListener('click', switchNight);
+          switchFontEle.addEventListener('click', switchFont);
       }
   }
 
@@ -51,6 +62,17 @@
       isNight = isNight ? isNight.toString() !== 'true' : true;
       applyNight(isNight);
       localStorage.setItem('night', isNight);
+  }
+
+  function switchFont() {
+      var isTraditional = localStorage.getItem('traditional') || 'false'
+      if (isTraditional === 'false') {
+        document.body.setAttribute('style', 'font-variant-east-asian: traditional')
+        localStorage.setItem('traditional', true)
+      } else {
+        document.body.setAttribute('style', 'font-variant-east-asian: normal')
+        localStorage.setItem('traditional', false)
+      }
   }
 
   findNightNav();
