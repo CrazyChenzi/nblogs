@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "gen": "bash ./scripts/gc.sh",
     "start": "hexo server --debug",
     "clean": "hexo clean",
     "build": "hexo build"
