@@ -1,7 +1,7 @@
 title:
 toc: true
 ---
-<p align="center" style="border-radius: 50%;"><img src="/img/avatar.png" alt="blacklisten" height=200 width=200></p>
+<p align="center" style="border-radius: 50%;"><img src="/img/avatar.png" alt="CrazyChenzi" height=200 width=200></p>
 <!-- <p align="center">
   <a href="https://github.com/SigureMo" class="zi zi_tmGithub"></a>
   <a href="mailto:sigure_mo@163.com" class="zi zi_envelope"></a> 
@@ -53,7 +53,7 @@ toc: true
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/Git-Operating-Guide.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/Git-Operating-Guide.md">here</a> 
 to submit your revision.
 </div>
 </article>

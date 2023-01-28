@@ -1,8 +1,8 @@
 /*
- * @Author: blacklisten
+ * @Author: CrazyChenzi
  * @Date: 2021-01-06 17:52:19
  * @LastEditTime: 2021-09-17 14:11:41
- * @LastEditors: blacklisten
+ * @LastEditors: CrazyChenzi
  * @Description: 
  * @FilePath: /nblogs/themes/icarus/source/js/imaegoo/night.js
  * @symbol_custom_string_obkoroi: 1 和 99 之间的差别再大，也不如 0 和 1 之间的差别大

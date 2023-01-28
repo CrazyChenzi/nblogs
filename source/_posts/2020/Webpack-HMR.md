@@ -20,7 +20,7 @@ thumbnail: https://z3.ax1x.com/2021/08/06/fnnm9S.md.jpg
 
 <!-- more -->
 
-本文示例代码[webpack hmr example](https://github.com/blacklisten/learning/tree/master/webpack/hmr)
+本文示例代码[webpack hmr example](https://github.com/CrazyChenzi/learning/tree/master/webpack/hmr)
 
 ## 热更新是保存后自动编译（Auto Compile）？
 
@@ -93,7 +93,7 @@ module.exports = {
 2. instant reload 示例中体现的，浏览器网页端与本地服务器端的 Websocket 通信。
 3. hmr 示例中体现的，也即是最核心的，模块解析与替换功能。
 
-![webpackDevServer HMR](https://raw.githubusercontent.com/blacklisten/learning/master/webpack/hmr/images/webpack_dev_server_hmr.jpg)
+![webpackDevServer HMR](https://raw.githubusercontent.com/CrazyChenzi/learning/master/webpack/hmr/images/webpack_dev_server_hmr.jpg)
 
 也就是说在这三种技术中，我们可以基于 Node.js 中提供的文件模块 **fs.watch** 来实现对文件和文件夹的监控，同样也可以使用 **sockjs-node** 或 socket.io 来实现 Websocket 的通信。而在这里，我们重点来看下第三种， webpack 中的模块解析与替换功能
 
@@ -113,7 +113,7 @@ webpack 的打包思想可以简化为 3 点：
 2. webpack 通过入口点（entry point）递归处理各模块引用关系，最后输出为一个或多个产物包 js(bundle) 文件。
 3. 每一个入口点都是一个块组（chunk group），在不考虑分包的情况下，一个 chunk group 中只有一个 chunk，该 chunk 包含递归分析后的所有模块。每一个 chunk 都有对应的一个打包后的输出文件（asset/bundle）。
 
-![webpack Build](https://github.com/blacklisten/learning/raw/master/webpack/hmr/images/webpack_build.jpg)
+![webpack Build](https://github.com/CrazyChenzi/learning/raw/master/webpack/hmr/images/webpack_build.jpg)
 
 在上面的 hmr 示例中，从 entry 中的 './src/index1.js' 到打包产物的 dist/main.js，以模块的角度而言，其基本流程是：
 
@@ -125,7 +125,7 @@ webpack 的打包思想可以简化为 3 点：
 
 上述流程的结果我们可以在预览页面中控制台的 Sources 面板中看到，这里，我们重点看经过 style-loader 处理的 style.css 模块的代码：
 
-![style CSS](https://github.com/blacklisten/learning/raw/master/webpack/hmr/images/style_css.jpg)
+![style CSS](https://github.com/CrazyChenzi/learning/raw/master/webpack/hmr/images/style_css.jpg)
 
 ## style-loader中的热替换代码
 
@@ -194,7 +194,7 @@ if(module.hot) {
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/Webpack-HMR.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/Webpack-HMR.md">here</a> 
 to submit your revision.
 </div>
 </article>

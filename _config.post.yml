@@ -18,7 +18,7 @@ widgets:
     #     position: left
     #     type: profile
     #     # Author name
-    #     author: blacklisten
+    #     author: CrazyChenzi
     #     # Author title
     #     author_title: Web Developer
     #     # Author's current location
@@ -30,12 +30,12 @@ widgets:
     #     # Email address for the Gravatar
     #     gravatar: 
     #     # URL or path for the follow button
-    #     follow_link: 'https://github.com/blacklisten'
+    #     follow_link: 'https://github.com/CrazyChenzi'
     #     # Links to be shown on the bottom of the profile widget
     #     social_links:
     #         Github:
     #             icon: fab fa-github
-    #             url: 'https://github.com/blacklisten'
+    #             url: 'https://github.com/CrazyChenzi'
     #         Facebook:
     #             icon: fab fa-facebook
     #             url: 'https://facebook.com/people/%E8%A2%81%E5%98%89%E6%99%A8/100024950512488'

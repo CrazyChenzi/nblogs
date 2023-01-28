@@ -33,7 +33,7 @@ Electron6.0.0版本部分window7设备上黑屏问题解决方案，官方问题
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/Electron-FAQ.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/Electron-FAQ.md">here</a> 
 to submit your revision.
 </div>
 </article>

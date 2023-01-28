@@ -18,4 +18,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true
-          cname: www.blacklisten.cn
+          cname: https://crazychenzi.github.io/nblogs

@@ -16,7 +16,7 @@ thumbnail: https://z3.ax1x.com/2021/08/06/fnMJ4P.md.jpg
 
 在多人协作的项目中，如果`Git`提交说明过于混乱，是不利于代码**review**的。如果`Git`提交说明足够精准、详细，不仅有利于代码的**review**也有利于后期排查问题，甚至我们可以根据`commit`信息生成响应日志。
 本文主要介绍通过[cz](https://github.com/commitizen/cz-cli)工具，以及附和`Angular`规范的提交说明来规范`commit`信息。也可以查看[vuejs](https://github.com/vuejs/vue)，他的提交说明就是根据`Angular`规范来的。
-本文示例: [cz-example](https://github.com/blacklisten/cz-example)
+本文示例: [cz-example](https://github.com/CrazyChenzi/cz-example)
 
 <!-- more -->
 
@@ -226,7 +226,7 @@ You could follow the following workflow
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/Commitizen.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/Commitizen.md">here</a> 
 to submit your revision.
 </div>
 </article>

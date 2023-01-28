@@ -19,7 +19,7 @@ thumbnail: https://z3.ax1x.com/2021/08/06/fnMUgS.md.jpg
 
 <!-- more -->
 
-[example地址](https://github.com/blacklisten/learning/tree/master/react/createReactApp)
+[example地址](https://github.com/CrazyChenzi/learning/tree/master/react/createReactApp)
 
 ## Props State
 
@@ -523,7 +523,7 @@ useState 的替代方案。它接收一个形如 (state, action) => newState 的
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/React-Basic.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/React-Basic.md">here</a> 
 to submit your revision.
 </div>
 </article>

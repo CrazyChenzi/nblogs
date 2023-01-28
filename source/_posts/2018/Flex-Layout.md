@@ -97,7 +97,7 @@ flex-direction属性决定主轴的方向（即项目的排列方向）。
 - column：主轴为垂直方向，起点在上沿。
 - column-reverse：主轴为垂直方向，起点在下沿。
 
-示例：[flex-direction](https://blacklisten.github.io/exercise/flex_layout/flex-direction.html)
+示例：[flex-direction](https://CrazyChenzi.github.io/exercise/flex_layout/flex-direction.html)
 
 ### flex-wrap属性
 
@@ -125,7 +125,7 @@ flex-direction属性决定主轴的方向（即项目的排列方向）。
 
  ![wrap-reverse.png](https://s2.ax1x.com/2019/01/23/kA70UK.png)
 
-示例：[flex-wrap](https://blacklisten.github.io/exercise/flex_layout/flex-wrap.html)
+示例：[flex-wrap](https://CrazyChenzi.github.io/exercise/flex_layout/flex-wrap.html)
 
 ### flex-flow
 
@@ -137,7 +137,7 @@ flex-flow属性是flex-direction属性和flex-wrap属性的简写形式，默认
 }
 ```
 
-示例：[flex-flow](https://blacklisten.github.io/exercise/flex_layout/flex-flow.html)
+示例：[flex-flow](https://CrazyChenzi.github.io/exercise/flex_layout/flex-flow.html)
 
 ### justify-content属性
 
@@ -159,7 +159,7 @@ justify-content属性定义了项目在主轴上的对齐方式。
 - space-between：两端对齐，项目之间的间隔都相等。
 - space-around：每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。
 
-示例：[justify-content](https://blacklisten.github.io/exercise/flex_layout/justify-content.html)
+示例：[justify-content](https://CrazyChenzi.github.io/exercise/flex_layout/justify-content.html)
 
 ### align-items属性
 
@@ -181,7 +181,7 @@ align-items属性定义项目在交叉轴上如何对齐。
 - baseline: 项目的第一行文字的基线对齐。
 - stretch（默认值）：如果项目未设置高度或设为auto，将占满整个容器的高度。
 
-示例：[align-items](https://blacklisten.github.io/exercise/flex_layout/align-items.html)
+示例：[align-items](https://CrazyChenzi.github.io/exercise/flex_layout/align-items.html)
 
 ### align-content属性
 
@@ -204,7 +204,7 @@ align-content属性定义了多根轴线的对齐方式。如果项目只有一�
 - space-around：每根轴线两侧的间隔都相等。所以，轴线之间的间隔比轴线与边框的间隔大一倍。
 - stretch（默认值）：轴线占满整个交叉轴。
 
-示例：[align-content](https://blacklisten.github.io/exercise/flex_layout/align-content.html)
+示例：[align-content](https://CrazyChenzi.github.io/exercise/flex_layout/align-content.html)
 
 ## 项目的属性
 
@@ -229,7 +229,7 @@ order属性定义项目的排列顺序。数值越小，排列越靠前，默认
 
 ![flex-order.png](https://s2.ax1x.com/2019/01/23/kA714U.png)
 
-示例：[order](https://blacklisten.github.io/exercise/flex_layout/order.html)
+示例：[order](https://CrazyChenzi.github.io/exercise/flex_layout/order.html)
 
 ### flex-grow属性
 
@@ -245,7 +245,7 @@ flex-grow属性定义项目的放大比例，默认为0，即如果存在剩余�
 
 如果所有项目的flex-grow属性都为1，则它们将等分剩余空间（如果有的话）。如果一个项目的flex-grow属性为2，其他项目都为1，则前者占据的剩余空间将比其他项多一倍。
 
-示例：[flex-grow](https://blacklisten.github.io/exercise/flex_layout/flex-grow.html)
+示例：[flex-grow](https://CrazyChenzi.github.io/exercise/flex_layout/flex-grow.html)
 
 ### flex-shrink属性
 
@@ -263,7 +263,7 @@ flex-shrink属性定义了项目的缩小比例，默认为1，即如果空间�
 
 负值对该属性无效。
 
-示例：[flex-shrink](https://blacklisten.github.io/exercise/flex_layout/flex-shrink.html)
+示例：[flex-shrink](https://CrazyChenzi.github.io/exercise/flex_layout/flex-shrink.html)
 
 ### flex-basis属性
 
@@ -277,7 +277,7 @@ flex-basis属性定义了在分配多余空间之前，项目占据的主轴空�
 
 它可以设为跟width或height属性一样的值（比如350px），则项目将占据固定空间。
 
-示例：[flex-basis](https://blacklisten.github.io/exercise/flex_layout/flex-basis.html)
+示例：[flex-basis](https://CrazyChenzi.github.io/exercise/flex_layout/flex-basis.html)
 
 ### flex属性
 
@@ -293,7 +293,7 @@ flex属性是flex-grow, flex-shrink 和 flex-basis的简写，默认值为0 1 au
 
 建议优先使用这个属性，而不是单独写三个分离的属性，因为浏览器会推算相关值。
 
-示例：[flex](https://blacklisten.github.io/exercise/flex_layout/flex.html)
+示例：[flex](https://CrazyChenzi.github.io/exercise/flex_layout/flex.html)
 
 ### align-self属性
 
@@ -309,7 +309,7 @@ align-self属性允许单个项目有与其他项目不一样的对齐方式，�
 
 该属性可能取6个值，除了auto，其他都与align-items属性完全一致。
 
-示例：[align-self](https://blacklisten.github.io/exercise/flex_layout/align-self.html)
+示例：[align-self](https://CrazyChenzi.github.io/exercise/flex_layout/align-self.html)
 
 > 参照：[原文](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
@@ -318,7 +318,7 @@ align-self属性允许单个项目有与其他项目不一样的对齐方式，�
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2018/Flex-Layout.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2018/Flex-Layout.md">here</a> 
 to submit your revision.
 </div>
 </article>

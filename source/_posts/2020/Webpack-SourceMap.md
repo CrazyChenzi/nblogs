@@ -23,7 +23,7 @@ thumbnail: https://z3.ax1x.com/2021/08/06/fnMN38.md.jpg
 
 <!-- more -->
 
-本文示例代码[webpack source map example](https://github.com/blacklisten/learning/tree/master/webpack/sourcemap)
+本文示例代码[webpack source map example](https://github.com/CrazyChenzi/learning/tree/master/webpack/sourcemap)
 
 ## webpack 中 source map 的预设
 
@@ -131,7 +131,7 @@ _devtool 的值匹配并非精确匹配，某个关键字只要包含在赋值�
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2020/Webpack-SourceMap">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2020/Webpack-SourceMap">here</a> 
 to submit your revision.
 </div>
 </article>

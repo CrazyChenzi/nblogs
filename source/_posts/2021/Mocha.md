@@ -39,7 +39,7 @@ thumbnail: https://z3.ax1x.com/2021/08/06/fnnm9S.md.jpg
 <article class="message message-immersive is-warning">
 <div class="message-body">
 <i class="fas fa-question-circle mr-2"></i>Something wrong with this article? 
-Click <a href="https://github.com/blacklisten/nblogs/edit/site/source/_posts/2021/Mocha.md">here</a> 
+Click <a href="https://github.com/CrazyChenzi/nblogs/edit/site/source/_posts/2021/Mocha.md">here</a> 
 to submit your revision.
 </div>
 </article>

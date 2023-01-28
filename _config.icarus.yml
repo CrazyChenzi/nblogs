@@ -6,7 +6,7 @@ variant: default
 logo: 
     # light: /img/logo.svg
     # dark: /img/logo_b_2.jpg
-    text: Blacklisten
+    text: CrazyChenzi
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -84,14 +84,14 @@ navbar:
     links:
         My Github:
             icon: fab fa-github
-            url: 'https://github.com/blacklisten'
+            url: 'https://github.com/CrazyChenzi'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
     links:
         My GitHub:
             icon: fab fa-github
-            url: 'https://github.com/blacklisten'
+            url: 'https://github.com/CrazyChenzi'
 # Article related configurations
 article:
     # Code highlight settings
@@ -119,10 +119,10 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: disqusjs
-    shortname: blacklisten
+    shortname: CrazyChenzi
     api_key: exTu1A9AwH0nVWvvCmSVh7H8HoTp4RUkld2NgMecCw2aYahA3g7iDtzNCxP7Quug
     api: https://disqus.skk.moe/disqus/     # 可选填
-    admin: blacklisten                         # 可选填
+    admin: CrazyChenzi                         # 可选填
     admin_label: Admin                      # 可选填
     nesting: 4                              # 可选填
 # Donate plugin configurations
@@ -181,7 +181,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: blacklisten
+        author: CrazyChenzi
         # Author title
         author_title: Web Developer
         # Author's current location
@@ -193,12 +193,12 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/blacklisten'
+        follow_link: 'https://github.com/CrazyChenzi'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/blacklisten'
+                url: 'https://github.com/CrazyChenzi'
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://facebook.com/people/%E8%A2%81%E5%98%89%E6%99%A8/100024950512488'
